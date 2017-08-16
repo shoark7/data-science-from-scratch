@@ -12,4 +12,7 @@ plt.title("Nominal GDP")
 
 # y축에 라벨 추가
 plt.ylabel("Billions of $")
-plt.show()
+
+
+if __name__ == '__main__':
+    plt.show()
