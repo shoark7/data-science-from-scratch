@@ -70,7 +70,7 @@ def dot_product(v, w):
 
 def sum_of_squares(v):
     """Get squared sum of a vector."""
-    return dot(v, v)
+    return dot_product(v, v)
 
 
 def magnitude_of_vector(v):
